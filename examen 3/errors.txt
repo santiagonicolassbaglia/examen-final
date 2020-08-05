@@ -1,0 +1,4 @@
+9/7/2020-> 09:38-> ScriptCache.exe-> Out of memory-> 9 
+8/8/2020-> 16:19-> ServiceNotifications.exe-> Email failed-> 8 
+12/8/2020-> 19:19-> ServiceNotifications.exe-> Email failed-> 8 
+17/7/2020-> 09:38-> ScriptCache.exe-> Out of memory-> 9 
